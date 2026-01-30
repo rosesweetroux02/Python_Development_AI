@@ -13,7 +13,7 @@ def make_acronym(sentance):
 make_acronym("New York") # -> 'NY'
 make_acronym("same stuff different day") # -> 'SSDD'
 make_acronym("Laugh out loud") # -> 'LOL'
-make_acronym("don't over think stuff") # -> 'DOTS'
+make_acronym("don't over think stuff")
 
 
 
