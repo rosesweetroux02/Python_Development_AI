@@ -15,7 +15,7 @@ make_acronym("same stuff different day") # -> 'SSDD'
 make_acronym("Laugh out loud") # -> 'LOL'
 make_acronym("don't over think stuff")
 
-
+#will come back to its solution later
 
 # Write a function `reverse_array(arr)` that accepts a list as an argument.
 # The function should return a list containing the elements of the original list in reverse order.
